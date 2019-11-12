@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Diplom\Diplom\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Diplom\Diplom\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\User\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\User\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form2.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form3.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form4.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form5.resources
+C:\Users\User\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form6.resources
